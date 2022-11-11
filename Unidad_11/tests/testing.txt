@@ -1,0 +1,26 @@
+
+******************TESTING**************************
+11/01/2022, 13:54:54
+test_add (__main__.TestCalc)
+Test add operation. ... ok
+test_divide (__main__.TestCalc)
+Test divide operation. ... ok
+test_multiply (__main__.TestCalc)
+Test multiply operation. ... ok
+test_subtract (__main__.TestCalc)
+Test subtract operation. ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.006s
+
+OK
+
+******************TESTING**************************
+11/01/2022, 17:44:34
+test_operations (__main__.TestCalc)
+Test add operation. ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.045s
+
+OK
