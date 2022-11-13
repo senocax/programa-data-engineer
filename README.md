@@ -13,7 +13,7 @@ List of practices developed in the program and content.
 | Unit 5  | [Event Logging in Airflow - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_5) |
 | Unit 6  | [Python Comments - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_6) |
 | Unit 7  | [Python Comments - Docstrings - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_7) |
-| Unit 8  | [Python Comments - PEP8 y Flake8 - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_8) |
+| Unit 8  | [Python Comments - PEP8 and Flake8 - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_8) |
 | Unit 9  | [Exception Handling - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_9) |
 | Unit 10  | [Testing - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_10) |
 | Unit 11  | [Testing II - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_11) |
