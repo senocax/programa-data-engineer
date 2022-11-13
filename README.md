@@ -1,4 +1,4 @@
-#### Data enginner - Tiimiit Tech Training Program by Alkemy {#mht}
+#### Data enginner - Tiimiit Tech Training Program by Alkemy
 
 List of practices developed in the program and content.
 
