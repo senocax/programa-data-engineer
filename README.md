@@ -1,4 +1,4 @@
-#### Data enginner - Tiimiit Tech Training Program by Alkemy
+#### Data enginner - Tiimiit Tech Training Program by Alkemy {#mht}
 
 List of practices developed in the program and content.
 
@@ -17,13 +17,13 @@ List of practices developed in the program and content.
 | Unit 9  | [Exception Handling - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_9) |
 | Unit 10  | [Testing - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_10) |
 | Unit 11  | [Testing II - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_11) |
-| Unit 12  | [CI/CD - No activity]() |
+| Unit 12  | [CI/CD - No activity](#mht) |
 | Unit 13  | [Relational Databases - DDL - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_13) |
 | Unit 14  | [Relational Databases - DML - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_14) |
-| Unit 15  | [Teradata - No activity]() |
+| Unit 15  | [Teradata - No activity](#mht) |
 | Unit 16  | [Database Access - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_16) |
 <!-- Tabla de contenido -->
 # :memo: Extras
-| Unit  | Activity |
+| Challenges  | Activity |
 | ------------- | ------------- |
 | Practical challenge group 2 SQL  | [ Group 2 SQL - Activity](https://github.com/senocax/programa-data-engineer/tree/main/practico_desafio_grupo2_sql) |
