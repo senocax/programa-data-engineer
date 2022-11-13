@@ -1,0 +1,4 @@
+'13-11-2022 18:23:05 INFO | database | Customer save success'
+'13-11-2022 18:23:05 INFO | database | ('Johnny Robbins', 23)'
+'13-11-2022 18:23:05 INFO | database | Updated DB with success'
+'13-11-2022 18:23:05 INFO | database | Delete Customer: <Customer (Johnny Robbins, 23, JohnnyR@myemail.com, 1826 Jerry Toth,  28202)> was delete'
