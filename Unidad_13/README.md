@@ -1,6 +1,6 @@
 # Relational Databases - DDL - Practical
 
-Create three tables and insert 5 tuples per table.
+Create three tables and insert 5 tuples per table then delete and restore database.
 
 ## Deploy
 
