@@ -5,7 +5,7 @@ Apply the concepts learned about non-relational databases, using MongoDB and Com
 ## Deploy
 ● Install MongoDB and Compass
 
-● Create database Uni18 in Compass (Create Database)
+● Create database Unit18 in Compass (Create Database)
 
 ![Alt text](https://res.cloudinary.com/dimgzkmps/image/upload/v1668463923/uni18_lntqpy.png)
 
