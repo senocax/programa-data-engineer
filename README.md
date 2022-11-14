@@ -1,6 +1,6 @@
 #### :star: Data enginner - Tiimiit Tech Training Program by Alkemy
 
-List of practices developed in the program and instruccions.
+List of practices developed in the program and instructions.
 
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
