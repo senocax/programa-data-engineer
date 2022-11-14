@@ -1,4 +1,4 @@
-# non-relational databases - Practical
+# Non-relational databases - Practical
 
 Apply the concepts learned about non-relational databases, using MongoDB and Compass.
 
@@ -68,4 +68,4 @@ db.customer.updateMany({_id:{$lte:2}},{$set:{Level:3} })
 db.products.updateMany({_id:{$gte:2}},{$set:{stock:2} })
 ```
 ![Alt text](https://res.cloudinary.com/dimgzkmps/image/upload/v1668463936/mongo_fz68b4.png)
-#### ● finally export .json files of both customer.json and products.json collections using compass
+#### ● finally export json of both customer and products collections using Compass
