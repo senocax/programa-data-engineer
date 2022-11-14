@@ -1,0 +1,21 @@
+[{
+  "_id": 1,
+  "ProductName": "Iphone 8",
+  "Price": 799,
+  "stock": 10
+},{
+  "_id": 2,
+  "ProductName": "Sangsung Galaxy 10",
+  "Price": 800,
+  "stock": 2
+},{
+  "_id": 3,
+  "ProductName": "Motorola Moto E20",
+  "Price": 500,
+  "stock": 2
+},{
+  "_id": 4,
+  "ProductName": "Samsung Galaxy A13",
+  "Price": 399,
+  "stock": 2
+}]
