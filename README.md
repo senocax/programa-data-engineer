@@ -1,6 +1,6 @@
-#### Data enginner - Tiimiit Tech Training Program by Alkemy
+#### :star: Data enginner - Tiimiit Tech Training Program by Alkemy
 
-List of practices developed in the program and content.
+List of practices developed in the program and instruccions.
 
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
@@ -22,6 +22,9 @@ List of practices developed in the program and content.
 | Unit 14  | [Relational Databases - DML - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_14) |
 | Unit 15  | [Teradata - No activity](#mht) |
 | Unit 16  | [Database Access - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_16) |
+| Unit 17  | [Access to other data sources - No activity](#mht) |
+| Unit 18  | [Non-relational databases - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Unidad_18) |
+
 <!-- Tabla de contenido -->
 # :memo: Extras
 | Challenges  | Activity |
