@@ -9,15 +9,14 @@ Apply the concepts learned about non-relational databases, using MongoDB and Com
 
 ![Alt text](https://res.cloudinary.com/dimgzkmps/image/upload/v1668463923/uni18_lntqpy.png)
 
-● Accessing the database from step 2
-```
-use Unit18
-```
 ● Access MongoDB from the console (ubuntu)
 ```
 mongo
 ```
-
+● Accessing the database from step 2
+```
+use Unit18
+```
 ● Create two collections, customer and products
 ```
 db.createCollection("customer")
