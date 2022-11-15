@@ -24,7 +24,7 @@ db.createCollection("customer")
 
 db.createCollection("products")
 ```
-Insert 1 documents in customer and products
+● Insert 1 documents in customer and products
 ```
 db.customer.insertOne({_id:1,FullName:'Richard Doe',Level:1, Age:25, City:'Illinois', Zip:61061})
 
