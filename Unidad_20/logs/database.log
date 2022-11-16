@@ -1,0 +1,14 @@
+'16-11-2022 14:08:26 INFO | database |     Year               City  ... Event gender Medal
+0   1952               Oslo  ...            M  Gold
+1   1952               Oslo  ...            M  Gold
+2   1952               Oslo  ...            W  Gold
+3   1952               Oslo  ...            W  Gold
+4   1956  Cortina d'Ampezzo  ...            M  Gold
+..   ...                ...  ...          ...   ...
+60  2006              Turin  ...            M  Gold
+61  2006              Turin  ...            W  Gold
+62  2006              Turin  ...            M  Gold
+63  2006              Turin  ...            W  Gold
+64  2006              Turin  ...            M  Gold
+
+[65 rows x 8 columns]'
