@@ -2,9 +2,12 @@
 
 Using the concepts learned in Data with Pandas II.
 Download data and get a sub dataset. Create a database "olympics" in SQLite and the table "medals". Store subset to database.
+
+Dataset: http://winterolympicsmedals.com/medals.csv
+
 ## Deploy
 
-● Clone repository and enter the directory of the activity 16
+● Clone repository and enter the directory of the activity 20
 ```
 git clone https://github.com/senocax/programa-data-engineer
 cd Unidad_20
