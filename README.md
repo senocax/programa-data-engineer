@@ -2,6 +2,12 @@
 
 List of practices developed in the program and instructions.
 
+● Clone repository and enter the directory and follow the deployment instructions for each activity
+
+```
+git clone https://github.com/senocax/programa-data-engineer
+```
+
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 | Unit  | Activity |
