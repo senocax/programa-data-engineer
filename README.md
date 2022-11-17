@@ -32,3 +32,4 @@ List of practices developed in the program and instructions.
 | Challenges  | Activity |
 | ------------- | ------------- |
 | Practical challenge group 2 SQL  | [ Group 2 SQL - Activity](https://github.com/senocax/programa-data-engineer/tree/main/practico_desafio_grupo2_sql) |
+| Challenge JOIN with pandas   | [ Challenge JOIN pandas - Activity](https://github.com/senocax/programa-data-engineer/tree/main/Desafio_join_pandas) |
