@@ -2,28 +2,52 @@
 
 Apply the concepts learned about non-relational databases, using MongoDB and Compass.
 
-## Deploy
+## Deploy Flask app with Flask-PyMongo
+● Create database Unit18 in Compass (Create Database)
+
+● create virtual environment (venv)
+```
+python -m venv path\to\myenv
+```
+● Install requirements.txt dependencies
+```
+pip install -r requirements.txt 
+```
+● Run app
+```
+python app.py
+```
+● Running on 
+```
+http://localhost:8080
+```
+Go selecting from the first option to the last.
+
+![Alt text](https://res.cloudinary.com/dimgzkmps/image/upload/v1669055333/flaskAp_ktkwyw.png)
+![Alt text](https://res.cloudinary.com/dimgzkmps/image/upload/v1669056415/mongodb_qlldyg.png)
+## Manual deploy
 ● Install MongoDB and Compass
 
 ● Create database Unit18 in Compass (Create Database)
 
 ![Alt text](https://res.cloudinary.com/dimgzkmps/image/upload/v1668463923/uni18_lntqpy.png)
 
-● Access MongoDB from the console (ubuntu)
-```
-mongo
-```
 ● Accessing the database from step 2
 ```
 use Unit18
 ```
+● Access MongoDB from the console (ubuntu)
+```
+mongo
+```
+
 ● Create two collections, customer and products
 ```
 db.createCollection("customer")
 
 db.createCollection("products")
 ```
-● Insert 1 documents in customer and products
+Insert 1 documents in customer and products
 ```
 db.customer.insertOne({_id:1,FullName:'Richard Doe',Level:1, Age:25, City:'Illinois', Zip:61061})
 
@@ -67,4 +91,4 @@ db.customer.updateMany({_id:{$lte:2}},{$set:{Level:3} })
 db.products.updateMany({_id:{$gte:2}},{$set:{stock:2} })
 ```
 ![Alt text](https://res.cloudinary.com/dimgzkmps/image/upload/v1668463936/mongo_fz68b4.png)
-#### ● finally export json of both customer and products collections using Compass
+#### ● finally export .json files of both customer.json and products.json collections using compass
